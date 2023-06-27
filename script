@@ -1,1 +1,1 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/gino212212/XEON-PRISON-LIFE-ALPHA-V.1/e88b79c32303d8b6ff58adfc6e8c2f5391256bb7/source%20code'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/gino212212/XEON-PRISON-LIFE-ALPHA-V.1/main/obfuscated'))()
